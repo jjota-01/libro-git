@@ -1,2 +1,4 @@
-ECHO est  activado.
-Capitulo 1: a Git Capitulo 2:Flujo de trabajo basico Repositorios remotos 
+Capitulo 1: a Git
+Capitulo 2:Flujo de trabajo basico Repositorios remotos
+Capitulo 3:Gestion de ramas 
+Capitulo 4: Repositorios remotos 
