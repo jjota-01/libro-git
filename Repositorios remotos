@@ -1,0 +1,13 @@
+> git remote add github https://github.com/javi-rz/repositorio-prueba-profe.git
+> git remote -v
+> git push github main
+> git clone https://github.com/javi-rz/repositorio-prueba-profe.git
+> echo jhojan peralta jota jhojanjperalta1234@gmail.com >> autores.txt
+> git add .
+> git commit -m "Añadido autor."
+> git push origin main
+> git clone https://github.com/jjota-01/libro-git.git
+> git checkout -b autoria
+> echo javier ruiz moreno javirumo2004@hotamil.com >> autores.txt
+> git commit -am "Añadido nuevo autor."
+> git push origin autoria
